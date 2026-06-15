@@ -1,8 +1,6 @@
 from contextlib import asynccontextmanager
-
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-
 from app.config import settings
 from app.utils.logger import logger
 from app.routes.dashboard import router as dashboard_router
@@ -12,7 +10,7 @@ from app.routes.recommendations import router as recommendations_router
 from app.routes.reports import router as reports_router
 from app.routes.executive import router as executive_router
 from app.middlewares.error_handler import global_exception_handler
-
+## configurações de logging
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
