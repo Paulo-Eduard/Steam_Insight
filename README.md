@@ -95,7 +95,7 @@ Após clonar o projeto, adicione os arquivos:
 * games.csv
 * games.json
 
-na pasta:
+na pasta: https://drive.google.com/file/d/1yRxMMkLtL5FjpIhMMFiG-aYr3Lfa65Eb/view?usp=sharing
 
 ```text
 backend/data/raw/
@@ -115,7 +115,7 @@ Caso não possua os arquivos, entre em contato com a equipe do projeto para obte
 ## 👥 Equipe
 
 * Paulo Eduardo
-* Yahona
+* Yahonan
 * Ysaac
 * Henrique
 
